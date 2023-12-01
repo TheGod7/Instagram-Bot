@@ -1,0 +1,10 @@
+// The sctructure of the poems is:
+{
+  "poems": [
+    {
+      "author": "YOUR NAME",
+      "title": "POEM TITLE",
+      "content": "CONTENT OF THE POEM"
+    }
+  ]
+}
